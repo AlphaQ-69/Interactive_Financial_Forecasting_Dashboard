@@ -60,7 +60,7 @@ function HeaderInner() {
       <div className="flex items-center gap-3">
         <img
           src="https://cdn.builder.io/api/v1/image/assets%2F54f8588728e94fb0b8646e3f37922df0%2Fcd48fb1260514aca9d84f9c0d2f57891?format=webp&width=800"
-          alt="Ammar_Predicts logo"
+          alt="Hussain_Predicts logo"
           className="h-8 w-8 rounded-md object-cover"
         />
         <span className="font-extrabold tracking-tight text-xl">
