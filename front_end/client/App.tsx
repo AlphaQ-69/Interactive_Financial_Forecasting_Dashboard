@@ -64,7 +64,7 @@ function HeaderInner() {
           className="h-8 w-8 rounded-md object-cover"
         />
         <span className="font-extrabold tracking-tight text-xl">
-          Ammar_Predicts
+          Hussain_Predicts
         </span>
         <Badge variant="secondary" className="ml-2">
           ML
@@ -128,7 +128,7 @@ function Layout() {
       </main>
       <footer className="border-t mt-12">
         <div className="container py-6 text-sm text-muted-foreground flex items-center justify-between">
-          <span>© {new Date().getFullYear()} Ammar_Predicts</span>
+          <span>© {new Date().getFullYear()} Hussain_Predicts</span>
           <div className="flex flex-col items-end text-right">
             <span className="text-xs text-muted-foreground">
               Dataset: {datasetLabel(dataset)}
