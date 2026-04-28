@@ -60,11 +60,11 @@ function HeaderInner() {
       <div className="flex items-center gap-3">
         <img
           src="https://cdn.builder.io/api/v1/image/assets%2F54f8588728e94fb0b8646e3f37922df0%2Fcd48fb1260514aca9d84f9c0d2f57891?format=webp&width=800"
-          alt="Hussain_Predicts logo"
+          alt="Aura Analytics logo"
           className="h-8 w-8 rounded-md object-cover"
         />
         <span className="font-extrabold tracking-tight text-xl">
-          Hussain_Predicts
+          Aura Analytics
         </span>
         <Badge variant="secondary" className="ml-2">
           ML
@@ -128,7 +128,7 @@ function Layout() {
       </main>
       <footer className="border-t mt-12">
         <div className="container py-6 text-sm text-muted-foreground flex items-center justify-between">
-          <span>© {new Date().getFullYear()} Hussain_Predicts</span>
+          <span>© {new Date().getFullYear()} Aura Analytics</span>
           <div className="flex flex-col items-end text-right">
             <span className="text-xs text-muted-foreground">
               Dataset: {datasetLabel(dataset)}
